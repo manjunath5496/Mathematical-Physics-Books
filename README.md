@@ -20,6 +20,18 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(13).pdf" style="text-decoration:none;">Quantum Mechanics for Mathematicians</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(14).pdf" style="text-decoration:none;">Advanced Mathematical Methods for Scientists and Engineers</a></b></li>
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(15).pdf" style="text-decoration:none;">Physics from Symmetry</a></b></li>                    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(15).pdf" style="text-decoration:none;">Physics from Symmetry</a></b></li>
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(16).pdf" style="text-decoration:none;">What is Quantum Field Theory, and What Did We Think It Is? </a></b></li>
+                          
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(17).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(18).pdf" style="text-decoration:none;">Special Functions of Mathematical Physics and Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(19).pdf" style="text-decoration:none;">The Quantum Theory of Fields</a></b></li>
+                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(20).pdf" style="text-decoration:none;">Elementary Mechanics from a Mathematician's Viewpoint</a></b></li>  
+
+
  
 </ul>
