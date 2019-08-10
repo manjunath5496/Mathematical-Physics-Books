@@ -32,6 +32,6 @@
                                 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(20).pdf" style="text-decoration:none;">Elementary Mechanics from a Mathematician's Viewpoint</a></b></li>  
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mathematical-Physics-Books/blob/master/mpy(21).pdf" style="text-decoration:none;">Physics for Mathematicians: Mechanics I</a></b></li>  
  
 </ul>
